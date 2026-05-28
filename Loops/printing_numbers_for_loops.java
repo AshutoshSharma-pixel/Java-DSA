@@ -1,0 +1,9 @@
+package Loops;
+
+public class printing_numbers_for_loops {
+    public static void main(String[] args) {
+        for (int i = 0; i < 11; i++) {
+            System.out.println(i);
+        }
+    }
+}
